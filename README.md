@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prasankumar
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Etlhive Company
+- 👀 I’m interested in solving business problems using Machine Learning and DataScience.
+- 🌱 I’m currently learning Python,Machine Learning,Deep Learning,Neural Network and Artifical Intelligence.
+- 💞️ I’m looking to collaborate with Companies who solve business problems using Machine Learning and Deep Learning.
 - 📫 How to reach me on my mailid.
 
 <!---
